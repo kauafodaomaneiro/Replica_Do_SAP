@@ -1,0 +1,52 @@
+body{
+
+    background-color: rgb(207, 207, 207);
+}
+
+.topo{
+    background-color: darkgray;
+    margin: 0px;
+    padding: 6px;
+}
+
+.barra{
+    background-color: yellow;
+    margin: 0px;
+    padding: 20px;
+}
+
+.botao{
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    color: rgb(77, 77, 77);
+}
+
+.separa{
+    margin: 3px;
+    padding: 2px;
+    background-color: rgb(80, 80, 80);
+}
+
+.nav{
+    background-color: rgb(238, 238, 238);
+    margin: 0px;
+    padding: 6px;
+    display: flex;
+}
+
+.flex{
+    display: flex;
+}
+
+tr{
+    background-color: white;
+}
+
+#td{
+    background-color: gray;
+}
+
+.invisible{
+    padding: 10px;
+}
